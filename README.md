@@ -20,3 +20,4 @@ A simple example for testing GCP pub/sub service.
 
  - [token authorization](https://github.com/googleapis/google-cloud-php/blob/master/AUTHENTICATION.md)
  - [pub/sub API doc](https://googleapis.github.io/google-cloud-php/#/docs/google-cloud/v0.131.0/pubsub/readme)
+ - [google official quickstart](https://cloud.google.com/pubsub/docs/quickstarts)
